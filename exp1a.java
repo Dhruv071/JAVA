@@ -1,5 +1,4 @@
-/*Write a Java program that prints all the prime numbers between 1 and 100.
-Implement this using both for and while loops.*/
+/*Write a Java program that prints all the prime numbers between 1 and 100.Implement this using both for and while loops.*/
 public class exp1a {
  public static void main(String[] args) {
 	 System.out.println("prime number using for loop : ");
